@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @swapnilnyk10
+- 👋 Hi, I’m @swapnilnyk10 (Swapnil Nayak)
 - 👀 I’m interested in Web Develpoment and Coding
 - 🌱 I’m currently learning C,C++,JAVA,CSS
 - 💞️ I’m looking to collaborate on Web Development
